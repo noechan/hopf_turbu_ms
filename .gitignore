@@ -1,0 +1,4 @@
+# Ignore macOS AppleDouble metadata files
+
+._*
+main/code/python/transcriptomic/full_GE_schaefer1000_2mm.csv
